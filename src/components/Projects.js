@@ -40,10 +40,18 @@ const Projects = () => {
             <br />- Use of APIs and CSS Animations, fully responsive
           </p>
           <div>
-            <a href="#" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://amisha-pandey.vercel.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               View
             </a>
-            <a href="#" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://github.com/Amisha0606/amisha-Portfolio"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Code
             </a>
           </div>
