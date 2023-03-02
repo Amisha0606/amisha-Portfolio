@@ -11,7 +11,7 @@ const Projects = () => {
           <p>
             - <b>ReactJS, HTML, CSS</b>
             <br />
-            - A desktop based platform for storing data for businesses
+            - A desktop based platform for storing data for businesses 
             <br />- Imlementation of maps, charts, table etc.
           </p>
           <div>
