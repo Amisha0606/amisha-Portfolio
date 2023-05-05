@@ -43,14 +43,14 @@ const Footer = () => {
               <FaGithub className="icon" />
             </a>
             <a
-              href="https://www.linkedin.com/in/amishapandey/"
+              href="https://www.linkedin.com/in/amishha0606/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaLinkedin className="icon" />
             </a>
             <a
-              href="https://twitter.com/amisha_pandeyy"
+              href="https://twitter.com/amishha0606"
               target="_blank"
               rel="noopener noreferrer"
             >
