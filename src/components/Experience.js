@@ -18,7 +18,7 @@ const Experience = () => {
             attention enhancement capabilities
           </p>
         </div>
-        <div className="experience-item" data-aos="fade-right">
+        <div className="experience-item" data-aos="fade-left">
           <h3>Frontend Developer</h3>
           <h5>Systaldyn | Sept 2022- Nov 2022</h5>
           <p>
@@ -28,7 +28,7 @@ const Experience = () => {
             tables, maps, etc.
           </p>
         </div>
-        <div className="experience-item" data-aos="fade-left">
+        <div className="experience-item" data-aos="fade-right">
           <h3>Community Manager</h3>
           <h5>Bluelearn | Jan 2021- April 2023</h5>
           <p>
@@ -39,7 +39,7 @@ const Experience = () => {
             ensuring high user participation and interaction
           </p>
         </div>
-        <div className="experience-item" data-aos="fade-right">
+        <div className="experience-item" data-aos="fade-left">
           <h3>Content Writer</h3>
           <h5>Freelancing | Nov 2020- Aug 2021</h5>
           <p>
