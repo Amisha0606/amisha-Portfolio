@@ -25,10 +25,10 @@ function App() {
 
       <About />
       <Introduction />
+      <Experience />
+      <Projects />
       <Skills />
       <Education />
-      <Projects />
-      <Experience />
       <Footer />
       {/* <Contact /> */}
     </div>
