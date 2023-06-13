@@ -179,7 +179,14 @@ a {
   height: 100vh;
 }
 
-.word {
+/* .name{
+  padding: 18% ;
+  color: var(--primColor);
+  font: 700 normal 4em "tahoma";
+  text-shadow: 5px 2px var(--shadow-color), 2px 4px var(--shadow-color),
+    3px 5px var(--shadow-color);
+} */
+.word{
   padding: 18%;
   color: var(--primColor);
   font: 700 normal 4em "tahoma";
@@ -223,6 +230,7 @@ a {
 .par {
   height: auto;
   overflow: hidden;
+  text-align: justify;
 }
 
 .email {

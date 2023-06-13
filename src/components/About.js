@@ -58,6 +58,7 @@ $(document).ready(function() {
 const About = () => {
   return (
     <section id="about" className="about-section">
+      {/* <div className="name"> I'm Amisha</div> */}
       <div class="word"></div>
     </section>
   );

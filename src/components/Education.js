@@ -18,11 +18,11 @@ const Education = () => {
           <h5>Red Eagle Public School</h5>
           <h3>2017-2019</h3>
         </div>
-        <div className="education-item" data-aos="zoom-in">
+        {/* <div className="education-item" data-aos="zoom-in">
           <h2>High School | CBSE</h2>
           <h5>Red Eagle Public School</h5>
           <h3>2015-2017</h3>
-        </div>
+        </div> */}
       </div>
     </section>
   );
