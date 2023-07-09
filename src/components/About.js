@@ -7,7 +7,7 @@ import $ from "jquery";
 var words = [
     "Heyo! This is Amisha.",
     "I am a Frontend Web Developer.",
-    "I work as a community managar @Bluelearn.",
+    "I have worked as a community managar @Bluelearn.",
     "I can write technical articles.",
     "I love building websites & connections.",
   ],

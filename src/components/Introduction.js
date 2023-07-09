@@ -20,14 +20,14 @@ function About() {
             </div>
             <div className="par">
               <p>
-                I'm a frontend web developer with intreset in{" "}
-                <b>game development</b> and <b>photography</b>. I am active in
-                several tech communities and love to build connections. <br />I
-                have worked as <b>freelance content writer</b> and currently
-                working at <b>Bluelearn</b> as a <b>Community Manager</b>.
-                Building websites and reading books is my favourite hobby.
+                I'm a front-end web developer interested in{" "}
+                <b>machine learning</b> and <b>photography</b>. I am active in
+                several tech communities and love to build connections. I have
+                worked as a <b>freelance content writer</b> and Community
+                Manager at <b>Bluelearn</b>. <br />
+                Building websites and reading books is my favourite hobby.{" "}
                 <br />
-                Also, I love <b>donuts</b>.
+                Also, I love doughnuts.
                 <br />
                 <br />
                 Hit me up at:{" "}
