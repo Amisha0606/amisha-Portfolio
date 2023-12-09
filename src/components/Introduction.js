@@ -48,7 +48,7 @@ function About() {
               <button className="btns_more">
                 {" "}
                 <a
-                  href="https://drive.google.com/file/d/1pdifjKNqmmcY8zQ8hA73lJfwqOEI0KSy/view?usp=sharing"
+                  href="https://drive.google.com/file/d/12DIUw6r8BMTFDG1TtEl6S9iyUeCF2zwG/view?usp=drive_link"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
